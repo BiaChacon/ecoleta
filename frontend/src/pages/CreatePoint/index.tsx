@@ -103,7 +103,6 @@ const CreatePoint = () => {
     const { name, value} = event.target;
 
     setFormData({ ...formData, [name]: value})
-    console.log(items)
   }
 
   function handleSelectItem(id: number){
@@ -116,6 +115,8 @@ const CreatePoint = () => {
     }else{
       setselectedItems([...selectedItems, id]);
     }
+
+    
   }
 
   async function handleSubmit(event: FormEvent){
@@ -138,12 +139,11 @@ const CreatePoint = () => {
       items
     };
 
-    console.log(data)
-    //await api.post('points', data);
+    await api.post('points', data);
 
-    //alert('Ponto de coleta criado!');
+    alert('Ponto de coleta criado!');
 
-    //history.push('/');
+    history.push('/');
   }
 
   return (
@@ -246,8 +246,7 @@ const CreatePoint = () => {
                   onClick={ () => handleSelectItem(item.id) }
                   className={selectedItems.includes(item.id) ? 'selected' : ''}
                 >
-                <img src={item.image_url.replace("http:", "http://")} alt={item.name} />
-                {/* <img src={item.image_url} alt={item.name} /> */}
+                <img src={item.image_url} alt={item.name} />
                 <span>{item.name}</span>
                 </li>
               ))}
