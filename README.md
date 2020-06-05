@@ -21,10 +21,8 @@
 </p>
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/42190754/83700056-2461d180-a5dc-11ea-8a9b-d40e08b6d37f.png" 
+    src="https://user-images.githubusercontent.com/42190754/83918819-da016180-a74f-11ea-8e9c-eab418fb7baa.png" 
     float="center"
-    width="800px"
-    heigh="800px"
   />
 </p>
 <br>
@@ -40,11 +38,11 @@ The Ecoleta Project is geared towards ecological purposes. It serves as a connec
 - [React Native](https://reactnative.dev/)
 
 ### 🌐 Backend
-Technologies used in the [backend]():
+Technologies used in the [backend](https://github.com/BiaChacon/ecoleta/tree/master/backend):
   - Express.
 
 ### 💻 Frontend
-Technologies used in the [frontend]():
+Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/master/frontend):
 - React.
 
 <!-- <p align="center">
@@ -56,7 +54,7 @@ Technologies used in the [frontend]():
 </p> -->
 
 ### 📱 Mobile
-Technologies used in the [mobile]():
+Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/master/mobile):
 - React Native;
 - Expo.
 
