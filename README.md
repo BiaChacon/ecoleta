@@ -48,16 +48,11 @@ Technologies used in the [backend](https://github.com/BiaChacon/ecoleta/tree/mas
 ### 💻 Frontend
 Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/master/frontend):
 - React;
-- Axios;
-- 
-
-<!-- <p align="center">
-<img src="" float="center"/>
-</p>
+- Axios.
 
 <p align="center">
-<img src="" float="center"/>
-</p> -->
+ <img src="https://user-images.githubusercontent.com/42190754/83927021-f5756800-a761-11ea-8665-e06f4bb415e0.gif" float="center"/>
+</p> 
 
 ### 📱 Mobile
 Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/master/mobile):
@@ -65,9 +60,21 @@ Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/mast
 - Axios;
 - Expo.
 
-<!-- <p align="center">
-<img src="" float="center"/>
-</p> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42190754/83926630-cb6f7600-a760-11ea-9d6d-ee3095e6ec80.jpeg" 
+       float="center" 
+       width="300px" 
+       heigh="100px"/>
+  <img src="https://user-images.githubusercontent.com/42190754/83926636-cf9b9380-a760-11ea-9b70-4c97cc5d1a93.jpeg" 
+       float="center"
+       width="300px" 
+       heigh="100px"/>
+  <img src="https://user-images.githubusercontent.com/42190754/83926634-cdd1d000-a760-11ea-970c-5a102262af0d.jpeg" 
+       float="center" 
+       width="300px"
+       heigh="100px"/>
+  
+</p> 
 
 <br/>
 
