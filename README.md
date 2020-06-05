@@ -28,7 +28,7 @@
 <br>
 
 ## About 
-Application created at RocketSeat's Next Level Week 1.0, using stack JavaScript  with Node.js, React.js and React Native.
+Application created at RocketSeat Next Level Week 1.0, using stack JavaScript  with Node.js, React.js and React Native.
 
 The Ecoleta Project is geared towards ecological purposes. It serves as a connection between companies or entities that collect inorganic waste the people who need to dispose of that waste.
 
@@ -39,11 +39,17 @@ The Ecoleta Project is geared towards ecological purposes. It serves as a connec
 
 ### 🌐 Backend
 Technologies used in the [backend](https://github.com/BiaChacon/ecoleta/tree/master/backend):
-  - Express.
+  - Express;
+  - Knex;
+  - CORS;
+  - Multer;
+  - Celebrate.
 
 ### 💻 Frontend
 Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/master/frontend):
-- React.
+- React;
+- Axios;
+- 
 
 <!-- <p align="center">
 <img src="" float="center"/>
@@ -56,6 +62,7 @@ Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/ma
 ### 📱 Mobile
 Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/master/mobile):
 - React Native;
+- Axios;
 - Expo.
 
 <!-- <p align="center">
