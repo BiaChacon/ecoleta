@@ -28,9 +28,9 @@
 <br>
 
 ## About 
-Application created at RocketSeat Next Level Week 1.0, using stack JavaScript  with Node.js, React.js and React Native.
+Application created at RocketSeat Next Level Week 1.0, using stack TypeScript  with Node.js, React.js and React Native.
 
-The Ecoleta Project is geared towards ecological purposes. It serves as a connection between companies or entities that collect inorganic waste the people who need to dispose of that waste.
+The Ecoleta Project is geared towards ecological purposes. It serves as a connection between companies or entities that collect inorganic waste the people who need to dispose of that waste. The web page serves to register the collection points and the mobile application is for the user to search for a collection point closest to him to pick up some specific item, and when selecting the collection point, see more details of the point and also contact being able to send an email or message on WhatsApp.
 
 ## Built With
 - [Node](https://nodejs.org/en/)
@@ -51,7 +51,8 @@ Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/ma
 - Axios.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/42190754/83927021-f5756800-a761-11ea-8665-e06f4bb415e0.gif" float="center"/>
+ <img src="https://user-images.githubusercontent.com/42190754/83927021-f5756800-a761-11ea-8665-e06f4bb415e0.gif" 
+      float="center" />
 </p> 
 
 ### 📱 Mobile
@@ -61,20 +62,12 @@ Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/mast
 - Expo.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42190754/83926630-cb6f7600-a760-11ea-9d6d-ee3095e6ec80.jpeg" 
-       float="center" 
-       width="300px" 
-       heigh="100px"/>
-  <img src="https://user-images.githubusercontent.com/42190754/83926636-cf9b9380-a760-11ea-9b70-4c97cc5d1a93.jpeg" 
-       float="center"
-       width="300px" 
-       heigh="100px"/>
-  <img src="https://user-images.githubusercontent.com/42190754/83926634-cdd1d000-a760-11ea-970c-5a102262af0d.jpeg" 
-       float="center" 
-       width="300px"
-       heigh="100px"/>
-  
-</p> 
+  <img src="https://user-images.githubusercontent.com/42190754/83955077-8feaaf80-a825-11ea-9e40-bc911ab32754.gif" />
+ </p> 
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/42190754/83955078-92e5a000-a825-11ea-9c8c-30bc6dacdbbe.gif" />
+ </p> 
 
 <br/>
 
