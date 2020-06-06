@@ -21,16 +21,14 @@
 </p>
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/42190754/83700056-2461d180-a5dc-11ea-8a9b-d40e08b6d37f.png" 
+    src="https://user-images.githubusercontent.com/42190754/83918819-da016180-a74f-11ea-8e9c-eab418fb7baa.png" 
     float="center"
-    width="800px"
-    heigh="800px"
   />
 </p>
 <br>
 
 ## About 
-Application created at RocketSeat's Next Level Week 1.0, using stack JavaScript  with Node.js, React.js and React Native.
+Application created at RocketSeat Next Level Week 1.0, using stack JavaScript  with Node.js, React.js and React Native.
 
 The Ecoleta Project is geared towards ecological purposes. It serves as a connection between companies or entities that collect inorganic waste the people who need to dispose of that waste.
 
@@ -40,29 +38,43 @@ The Ecoleta Project is geared towards ecological purposes. It serves as a connec
 - [React Native](https://reactnative.dev/)
 
 ### 🌐 Backend
-Technologies used in the [backend]():
-  - Express.
+Technologies used in the [backend](https://github.com/BiaChacon/ecoleta/tree/master/backend):
+  - Express;
+  - Knex;
+  - CORS;
+  - Multer;
+  - Celebrate.
 
 ### 💻 Frontend
-Technologies used in the [frontend]():
-- React.
-
-<!-- <p align="center">
-<img src="" float="center"/>
-</p>
+Technologies used in the [frontend](https://github.com/BiaChacon/ecoleta/tree/master/frontend):
+- React;
+- Axios.
 
 <p align="center">
-<img src="" float="center"/>
-</p> -->
+ <img src="https://user-images.githubusercontent.com/42190754/83927021-f5756800-a761-11ea-8665-e06f4bb415e0.gif" float="center"/>
+</p> 
 
 ### 📱 Mobile
-Technologies used in the [mobile]():
+Technologies used in the [mobile](https://github.com/BiaChacon/ecoleta/tree/master/mobile):
 - React Native;
+- Axios;
 - Expo.
 
-<!-- <p align="center">
-<img src="" float="center"/>
-</p> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42190754/83926630-cb6f7600-a760-11ea-9d6d-ee3095e6ec80.jpeg" 
+       float="center" 
+       width="300px" 
+       heigh="100px"/>
+  <img src="https://user-images.githubusercontent.com/42190754/83926636-cf9b9380-a760-11ea-9b70-4c97cc5d1a93.jpeg" 
+       float="center"
+       width="300px" 
+       heigh="100px"/>
+  <img src="https://user-images.githubusercontent.com/42190754/83926634-cdd1d000-a760-11ea-970c-5a102262af0d.jpeg" 
+       float="center" 
+       width="300px"
+       heigh="100px"/>
+  
+</p> 
 
 <br/>
 
